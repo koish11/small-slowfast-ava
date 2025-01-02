@@ -1,0 +1,4 @@
+json_stats: {"RAM": "8.65/15.24G", "_type": "val_epoch", "cur_epoch": "5", "gpu_mem": "5.89G", "map": 0.28547, "mode": "val"}
+json_stats: {"RAM": "8.15/15.24G", "_type": "val_epoch", "cur_epoch": "10", "gpu_mem": "6.02G", "map": 0.27872, "mode": "val"}
+json_stats: {"RAM": "9.51/15.24G", "_type": "val_epoch", "cur_epoch": "15", "gpu_mem": "6.02G", "map": 0.28064, "mode": "val"}
+json_stats: {"RAM": "9.48/15.24G", "_type": "val_epoch", "cur_epoch": "20", "gpu_mem": "6.15G", "map": 0.28048, "mode": "val"}
